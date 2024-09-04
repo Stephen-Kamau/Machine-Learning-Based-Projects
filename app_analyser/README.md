@@ -43,15 +43,19 @@ Follow these steps to get the app running on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/app-analyser.git
-   cd app-analyser
+   git clone git@github.com:Stephen-Kamau/App-Analyser-A-No-Code-Machine-Learning-App-with-Streamlit.git
+   cd App-Analyser-A-No-Code-Machine-Learning-App-with-Streamlit
     ```
 2. **Install the Required Dependencies Make sure you have Python installed. Then, install the necessary packages using `pip`**:
-    ```pip install -r requirements.txt
+    ```
+    pip install -r requirements.txt
+    
     ```
 
 3. **Run the Application Launch the Streamlit app by running the following command:**
-    ```streamlit run app.py ```
+    ```
+    streamlit run app.py 
+    ```
 
 4. **Use the App Once the app is running, it will open in your default web browser. You can now upload your dataset, perform exploratory data analysis (EDA), train models, compare their performance, and retrain model—all from within the app.**
 

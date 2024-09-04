@@ -13,7 +13,7 @@ Below is a list of projects, each with a brief description and a link to its ded
 | 1  | **Flipkart Products Reviews Scraping with BeautifulSoup For Sentiment Analysis**  | Scraping Flipkart data and performing sentiment analysis using BERT, RoBERTa, XGBoost, and BeautifulSoup.  | [Learn more](/flipkart_scape_reviews/README.md)  |
 | 2  | **Impack of Race & Age on Gender Classication using CNN and Transfer Learning(Resnet)**  |  Evaluate the gender classification performance of various models across different age and race groups using the UTKFace dataset.  | [Learn more](/impact_of_race_age_on_gender_classification/README.md)  |
 | 3  | **App Analyser: Building a No-Code Machine Learning App with Streamlit**  | A no-code data analytics and machine learning application enabling users to perform data analysis and build predictive models without writing code.  | [Learn more](/app_analyser/README.md)  |
-
+| 4  | **Product Recommendation API**  | A Flask-based API for providing product recommendations using a pre-trained Nearest Neighbours model. Includes web and REST API interfaces for generating recommendations.  | [Learn more](/walmart_prod_recomentation/README.md)  |
 
 ### 🚀 Get in Touch
 
